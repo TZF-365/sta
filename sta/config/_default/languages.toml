@@ -1,0 +1,15 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "Technologically Zealous Family"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Our Service"
+footer_menu_right = "Support"
+footer_content = "Creating Value through hard work, honesty, modesty and proper work ethic."
+# copyright
+copyright = "Design By Glenville Dixon Jr and Develop By [Technologically Zealous Family](https://tzfi.page/)"
+
+

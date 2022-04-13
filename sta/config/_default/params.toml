@@ -1,0 +1,48 @@
+#################### default parameters ################################
+logo = "images/logo.png"
+logo_width = "200px"
+# OpenGraph / Twitter Card metadata
+description = "Silver Tree  Agency, Where Ideas Meet Reality"
+author = "Glenville Dixon Jr"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# contact form action
+contact_form_action = "https://formspree.io/f/mknyqjrw" # contact form works with https://formspree.io
+
+# Preloader
+[preloader]
+enable = true
+preloader = "images/logo.png" # themify icon : https://themify.me/themify-icons
+
+# Navigation buttons
+[navigation_button]
+enable = true
+label = "Get Started"
+link = "contact"
+
+# cookies
+[cookies]
+enable = true
+expire_days = 7
+content = "This site uses cookies. By continuing to use the TZFI website, you agree to their use."
+button = "I Accept"
+  
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/TZFMain/"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/zealousfamily"
+
+[[social]]
+title = "behance"
+icon = "fab fa-behance" # themify icon : https://themify.me/themify-icons
+link = "https://www.behance.net/TZFI"
+
+[[social]]
+title = "linkedin"
+icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://ag.linkedin.com/company/tzfi"
