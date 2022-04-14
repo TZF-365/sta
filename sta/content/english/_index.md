@@ -3,7 +3,7 @@
 banner:
   title : "Let us solve your critical <br> creative challanges"
   image : "images/banner-art.svg"
-  content : "we will with you to identify, research, plan and solve your problems and keep them solved."
+  content : "We will with you to identify, research, plan and solve your problems and keep it that way."
   button:
     enable : true
     label : "Contact Us"
@@ -27,17 +27,17 @@ feature:
     # feature item loop
     - name : "High Level Service"
       icon : "fas fa-user-clock"
-      content : "Only way to find our if this is true is to set up a meeting and find out."
+      content : "Only way to find out if this is true is to set up a meeting with us and find out."
       
     # feature item loop
     - name : "Value For Money"
       icon : "fas fa-heart"
-      content : "With reasonable and variable rates that caters to businesses and individuals of all sizes."
+      content : "With reasonable and variable rates that caters to businesses and individuals of all shapes and sizes."
       
     # feature item loop
     - name : "Zealous Mentality"
       icon : "fas fa-tachometer-alt"
-      content : "marked by fervent a cause, or an ideal : filled with or characterized by zeal. Having or displaying a passionate intensity."
+      content : "A cause, or an ideal <br> filled with or characterized by zeal. <br> Having or displaying a passionate intensity."
       
     # feature item loop
     - name : "Cyber Security Protection"
@@ -56,11 +56,11 @@ service:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "We are a Creative digital marketing agency that serves as the Medium between Ideas and Reality, we turn Digital works and translate them to reality, if you need a Digital Design and Marketing Agency in Antigua you come to us. If you need branding, Marketing, Search engine optimization, and a website bundle you can contact us from anywhere in the world and inquire."
+      content : "We are a Creative digital marketing agency that serves as a Medium between Ideas and Reality, we turn Digital works and translate them to reality, if you need a digital design and marketing agency in Antigua you come to us. If you need branding, marketing, search engine optimization, and a website you can contact us from anywhere in the world and inquire!"
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "https://silvertreeagency.tzfi.page"
         
     # service item loop
     - title : "How Important is Branding?"
@@ -70,7 +70,7 @@ service:
       button:
         enable : true
         label : "Ask us all the questions you want."
-        link : "#"
+        link : "contact"
         
     # service item loop
     - title : "We are a tight knit team"
@@ -80,17 +80,17 @@ service:
       button:
         enable : true
         label : "About Us"
-        link : "#"
+        link : "https://www.tzfi.page/sta/"
         
     # service item loop
     - title : "A Agency standing different from others"
       images:
       - "images/service-3.png"
-      content : "We do not follow the traditional tone or environment of other agencies as we like to express ourselves and our ideas and really let go with your creative vision, speak to one of our agents and you would be content in giving us creative control knowing we only do the best for you and your brand, no matter how big or small it may be for a monetary fee."
+      content : "We do not follow the traditional tone or environment of other agencies as we like to express ourselves and our ideas and really let go with your creative vision, speak to one of our agents and you would be content in giving us creative control knowing we only do the best for you and your brand, no matter how big or small it may be for nothing more but a monetary fee."
       button:
         enable : true
         label : "Check it out"
-        link : "#"
+        link : "https://casestudy.tzfi.page"
         
 ################### Screenshot ########################
 screenshot:
